@@ -17,7 +17,7 @@
 body {
     font-family: "Zilla Slab", serif; /* Define a fonte padrão */
     background-color: #111211; /* Cor de fundo da página */
-    background-image: url(video_t1_hero_history.jpeg);
+    background-image: url(images/video_t1_hero_history.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right;
