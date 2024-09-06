@@ -44,4 +44,4 @@ Para deixar a aplicação ainda mais completa, você pode adicionar:
 
 **[Lucas Lima]**
 
-![Michael Jordan fazendo uma enterrada](images/Jordan_Dunk.gif)
+![Michael Jordan fazendo uma enterrada](images/jordan_dunk.gif)
