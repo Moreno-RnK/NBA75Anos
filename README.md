@@ -43,3 +43,5 @@ Para deixar a aplicação ainda mais completa, você pode adicionar:
 **#NBA75 #Basquete #Programação**
 
 **[Lucas Lima]**
+
+![Michael Jordan fazendo uma enterrada](images/Jordan_Dunk.gif)
