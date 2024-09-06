@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Jogadores de Basquete</title>
+</head>
+<body onload = "pesquisar()">
+    <header>
+        <h1 class="texto-metalico">NBA 75 ALL-TIME PLAYERS</h1>
+    </header>
+    <main>
+        <section>
+            <input type="search" placeholder="Digite o nome do jogador" id="filtrar">
+            <button onclick="filtrar()">Buscar</button>
+       </section>
+        <section class="resultados-pesquisa" id="resultados-pesquisa">
+        </section>
+    </main> 
+    <footer>
+        <p>© 2024 - NBA 75 ALL-TIME PLAYERS.</p>
+    </footer>
+    <script src="dados.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html> 
